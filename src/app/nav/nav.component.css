@@ -1,3 +1,9 @@
 .dropdown-item, .dropdown-toggle{
     cursor: pointer;
 }
+
+span>img{
+    max-height: 55px;
+    max-width: 55px;
+    border: 1px solid white;
+}
